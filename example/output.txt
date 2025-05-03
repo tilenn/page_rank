@@ -1,0 +1,9 @@
+"mapreduce"	2
+"for"	1
+"fun"	4
+"is"	3
+"this"	2
+"file"	2
+"test"	2
+"testing"	1
+"a"	1
